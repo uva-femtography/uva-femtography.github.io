@@ -1,0 +1,204 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>QCD 2022 at UVa</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">QCD Evolution 2022</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="workshop.html">Workshop</a></li>
+								<li><a href="https://conference.phys.virginia.edu/indico/event/7/">Registration</a></li>
+								<li><a href="accomodations.html">Accomodations & Parking</a></li>
+								<li><a href="code.html">Code of Conduct</a></li>
+								<li><a href="agenda.html">Scientific Agenda</a></li>
+								<li><a href="restaurants.html">Restaurants</a></li>
+								<li><a href="drinks.html">Drinks</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+						  <div class="logo"><img src="parton-goops.png" border="0" width="150"></div>
+						  <h2>QCD Evolution 2022</h2>
+							<p><font size="+1">9 - 13 May 2022, University of Virginia</font></p>
+						</div>
+					</section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/dvcs.png" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Workshop</h2>
+										<p><font size="+1">QCD Evolution provides a forum to discuss the most recent scientific advances in the exploration of the strong interactions and how they give rise to mass, spin and the internal structure of all visible matter at the femtoscale, or the field of nuclear femtography. A major goal of the workshop is to provide guidance to the physics programs at experimental facilities from Jefferson Lab to the upcoming, next-generation nuclear physics accelerator in the US, the Electron Ion Collider (EIC).</font></p>
+<p><font size="+1">
+Since its first workshop held at Jefferson Lab in 2011, QCD Evolution has grown into a "key role playing" hadron physics meeting.</font></p>
+<p><font size="+1">
+The main topics addressed in the workshop will involve Transverse Momentum Distributions (TMDs), Generalized Parton Distributions (GPDs), Wigner Distributions and small-x physics, together with advances in perturbative and non-perturbative techniques within Quantum Chromodynamics (QCD).</font></p>
+										<a href="workshop.html" class="special"><font size="+1">Learn more</font></a>
+									</div>
+								</div>
+							</section>
+
+
+							<!-- Three -->
+                                                        <section id="three" class="wrapper alt spotlight style2">
+                                                                <div class="inner">
+                                                                        <a href="#" class="image"><img src="images/gluon_ft.png" alt="" /></a>
+                                                                        <div class="content">
+                                                                                <h2 class="major">Registration</h2>
+                                                                                <p><font size="+1">Registration will be done through Indico, please click the link below. The registration fees are $... payable by ... The registration fee covers the scientific sessions and the coffee/snack breaks. A workshop dinner will be held on Wednesday May 11, 2022 at Three Notch'd Brewery. Registration for the dinner is $... payable by ... More information can be found on the Indico page.</font></p>
+                                                                                <a href="https://conference.phys.virginia.edu/indico/event/7/" class="special"><font size="+1">Register Here!</font></a>
+                                                                        </div>
+                                                                </div>
+                                                        </section>
+							
+						<!-- Two -->
+							<section id="two" class="wrapper spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/jm_oam.png" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Accomodations & Parking</h2>
+										<p><font size="+1">Accomodations should be booked separately from the registration process. We list viable options near the University of Virginia campus in the link below.</font></p>
+										<a href="accomodations.html" class="special"><font size="+1">Learn more</font></a>
+									</div>
+								</div>
+							</section>
+
+							<!-- Five -->
+                                                        <section id="five" class="wrapper alt spotlight style2">
+                                                                <div class="inner">
+                                                                        <a href="#" class="image"><img src="images/factorization.png" alt="" /></a>
+                                                                        <div class="content">
+                                                                                <h2 class="major">Code of Conduct</h2>
+                                                                                <p><font size="+1">The QCD Evolution organizing committees abide by the standards of conduct of the American Physical Society (APS) that all participants of this event shall abide by. We pride ourselves in fostering an inclusive and equitable research environment that will ensure all particpants are welcome. Any behavior or language that is in direct violation of the code of conduct will result in immediate expulsion from this meeting and further QCD Evolution meetings without refund. Please click the link below for our detailed code of conduct.</font></p>
+                                                                                <a href="code.html" class="special"><font size="+1">Learn more</font></a>
+                                                                        </div>
+                                                                </div>
+                                                        </section>
+
+							<!-- Six -->
+                                                        <section id="six" class="wrapper spotlight style3">
+                                                                <div class="inner">
+                                                                        <a href="#" class="image"><img src="images/oam.png" alt="" /></a>
+                                                                        <div class="content">
+                                                                                <h2 class="major">Scientific Agenda & Participants</h2>
+                                                                                <p><font size="+1">Click the link below for the scientific agenda and a list of participants.</font></p>
+                                                                                <a href="agenda.html" class="special"><font size="+1">Learn more</font></a>
+                                                                        </div>
+                                                                </div>
+                                                        </section>
+
+							
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+							  <div class="inner">
+                                                  <h2 class="major">Get in touch</h2>
+                                                  <div class ="row">
+                                                  <div class="col-6 col-12-medium">
+                                                    <h2>Organizing Committee</h2>
+                                                    <li><a href="https://www.anl.gov/profile/ian-c-cloet"><font size="+1">Ian Cloet</font></a></li>
+                                                    <li><a href="https://phys.cst.temple.edu/martha-constantinou.html"><font size="+1">Martha Constantinou</font></a></li>
+                                                    <li><a href="https://berks.psu.edu/person/gamberg-leonard"><font size="+1">Leonard Gamberg</font></a></li>
+                                                    <li><a href="https://kang-research-group.physics.ucla.edu/"><font size="+1">Zhongbo Kang</font></a></li>
+                                                    <li><a href="http://www.phys.virginia.edu/People/personal.asp?UID=sl4y"><font size="+1">Simonetta Liuti</font></a></li>
+                                                    <li><a href="https://berks.psu.edu/person/prokudin-alexey"><font size="+1">Alexey Prokudin</font></a></li>
+                                                  </div>
+                                                  <div class="col-6 col-12-medium">
+                                                    <h2>Local Organizing Committee</h2>
+                                                    <li><a href="http://www.phys.virginia.edu/People/personal.asp?UID=sl4y"><font size="+1">Simonetta Liuti</a> (chair)</font></li>
+						    <li><a href="http://www.phys.virginia.edu/People/personal.asp?UID=pmf8ej"><font size="+1">Salina Ali</font></a></li>
+                                                    <li><a href="http://www.phys.virginia.edu/People/personal.asp?UID=cc8a"><font size="+1">Clara Colby</font></a></li>
+                                                    <li><a href="http://www.phys.virginia.edu/People/personal.asp?UID=eko5r"><font size="+1">Elizabeth Guyton</font></a></li>
+                                                    <li><a href="http://www.phys.virginia.edu/People/personal.asp?UID=aka4a"><font size="+1">Ashley Haddox</font></a></li>
+                                                    <li><a href="https://www.femtocenter.org/organization"><font size="+1">Brandon Kriesten</font></a></li>
+                                                    <li><a href="http://www.phys.virginia.edu/People/personal.asp?UID=cap2wm"><font size="+1">Caryn Palatchi</font></a></li>
+                                                    <li><a href="https://www.femtocenter.org/organization"><font size="+1">Kyle Shiells</font></a></li>
+                                                    <li><a href="http://www.phys.virginia.edu/People/personal.asp?UID=bkw1a"><font size="+1">Bryan Wright</font></a></li>
+                                                  </div>
+                                                  </div>
+                                                </div>
+							</section>
+
+					</section>
+					
+				<!-- Footer -->
+					<section id="footer">
+
+					  <div class="inner">
+                                                                        <h2 class="major">Attractions</h2>
+                                                                        <p><font size="+1">The University of Virginia is located in the thriving city of Charlottesville, Virginia located approximately 120 miles west of Washi\
+ngton D.C. Among the beautiful Appalachian mountains and woodland scenery, this historic city has many attractions for visitors including Monticello, Carter Mountain Orchard, and the Shenandoah National Park; along with over\
+ 15 breweries and cideries. For convenience we are linking some of the restaurants and breweries to visit during your visit to Charlottesville.</font></p>
+                                                                        <section class="features">
+                                                                                <article>
+                                                                                  <a href="restaurants.html" class="image"><img src="Lawn_Aerial_Spring_2020_SS_02.jpg" alt="" /></a>
+                                                                                        <h3 class="major">Restaurants</h3>
+                                                                                        <p>Clink the link below to find more information on the many local restaurants.</p>
+                                                                                        <a href="restaurants.html" class="special">Learn more</a>
+                                                                                </article>
+                                                                                <article>
+                                                                                        <a href="drinks.html" class="image"><img src="2_4.jpg" alt="" /></a>
+                                                                                        <h3 class="major">Breweries/Cideries/Wineries</h3>
+                                                                                        <p>Click the link below to find more information regarding the many breweries, wineries, and cideries of Charlottesville.</p>
+                                                                                        <a href="drinks.html" class="special">Learn more</a>
+                                                                                </article>
+                                                                        </section>
+                                                                        <h2 class="major">Funding Sources</h2>
+                                                                        <ul class="actions">
+                                                                          <div>
+                                                                            <li><a href="https://www.femtocenter.org/" class="image"><img src="images/cnf_logo.jpeg" ></a>
+                                                                            <li><a href="https://sura.org/" class = "image"><img src="images/sura_logo.jpeg" alt="" /></a>
+                                                                            <li><a href="#" class = "image"><img src="images/uva_logo.jpeg"></a>
+                                                                            <li><a href="https://femtonet.phys.virginia.edu/#" class="image"><img src="images/femto_logo.png"></a>
+                                                                          </div>
+                                                                        </ul>
+									<ul class="copyright">
+                                                    <li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                                                  </ul>
+                                                                </div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
